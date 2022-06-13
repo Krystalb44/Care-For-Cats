@@ -1,0 +1,33 @@
+img {
+width: 100px;
+}
+h1 {
+font-family: 'Playfair Display', serif;
+}
+p {
+font-family: 'Indie Flower', cursive;
+}
+ul {
+font-family: 'Alfa Slab One', cursive;
+}
+ol {
+font-family: 'Indie Flower', cursive;
+}
+body {
+background-color: #e8d8e7;
+}
+.kats {
+display:flex;
+    justify-content: center;
+}
+p {
+border: 10px dotted #8E53F7;
+}
+h2 {
+border: 10px groove #A3AEEE;
+ display:flex;
+    justify-content: center;
+}
+.circle {
+ border-radius: 50%;
+}
